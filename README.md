@@ -8,7 +8,7 @@ A data-driven project analyzing T20 World Cup 2024 matches using Exploratory Dat
 
 ## 🛠️ Technologies Used
 
-| Technology       | Logo |
+| Technologies Used      | Logo |
 |------------------|------|
 | **Pandas**       | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="80"/> |
 | **NumPy**        | <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="80"/> |
