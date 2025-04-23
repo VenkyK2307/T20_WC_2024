@@ -1,4 +1,4 @@
-# T20 World Cup 2024: Exploratory Data Analysis and Team Winning Prediction
+# 🏏 T20 World Cup 2024: Exploratory Data Analysis and Team Winning Prediction
 
 ## 📄 Project Description
 
@@ -8,17 +8,19 @@ A data-driven project analyzing T20 World Cup 2024 matches using Exploratory Dat
 
 | Technology       | Logo                                                                 |
 |------------------|----------------------------------------------------------------------|
-| **Pandas**       | ![Pandas Logo](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg) |
-| **NumPy**        | ![NumPy Logo](https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg) |
-| **Jupyter Notebook** | ![Jupyter Logo](https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg) |
-| **Scikit-learn** | ![Scikit-learn Logo](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) |
+| **Pandas**       | ![Pandas Logo](https://img.icons8.com/color/48/000000/pandas.png)    |
+| **NumPy**        | ![NumPy Logo](https://img.icons8.com/color/48/000000/numpy.png)      |
+| **Jupyter Notebook** | ![Jupyter Logo](https://img.icons8.com/color/48/000000/jupyter.png) |
+| **Scikit-learn** | ![Scikit-learn Logo](https://img.icons8.com/color/48/000000/scikit-learn.png) |
 
-*Note: Logos are sourced from their respective official repositories.*
+*Note: Logos are sourced from [Icons8](https://icons8.com).*
 
 ## 📊 Key Features
 
 - Comprehensive Exploratory Data Analysis (EDA) of T20 World Cup 2024 matches.
 - Predictive modeling to forecast team winning probabilities.
 - Visualization of player and team performance metrics.
-- Interactive Jupyter Notebooks for dynamic data exploration
+- Interactive Jupyter Notebooks for dynamic data exploration.
+
+
 
