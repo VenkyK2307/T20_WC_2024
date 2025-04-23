@@ -9,22 +9,18 @@ A data-driven project analyzing T20 World Cup 2024 matches using Exploratory Dat
 ## 🛠️ Technologies Used
 
 - **Pandas**  
-  ![Pandas](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="100"/>
 
 - **NumPy**  
-  ![NumPy](https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="100"/>
 
 - **Jupyter Notebook**  
-  ![Jupyter](https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="100"/>
 
 - **Scikit-learn**  
-  ![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="100"/>
 
 ---
 
 ## 📁 Project Structure
 
-C:.
-├───EDA_T20_WC
-├───Predicting_Winning_Team
-└───TOP11_Players 
