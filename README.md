@@ -17,5 +17,4 @@ A data-driven project analyzing T20 World Cup 2024 matches using Exploratory Dat
 
 ---
 
-## 📁 Project Structure
 
